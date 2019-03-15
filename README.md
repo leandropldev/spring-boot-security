@@ -1,3 +1,4 @@
 # spring-boot-security
 
-Autenticação em memória
+Exemplo de proteção de páginas com spring security
+Neste exemplo as credenciais de acesso são armazenadas em memória
